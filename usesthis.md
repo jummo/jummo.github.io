@@ -1,7 +1,7 @@
 # Uses This
 I really enjoy to read posts about the tools/setup/workplace from other people like on [usesthis.com](https://usesthis.com/). So here is mine.
 
-## Links to others I found intresting
+## Links to others I found interesting
 - [Scott Hanselmann's Ultimate Developer and Power Users Tool List for Windows](https://www.hanselman.com/blog/scott-hanselmans-2021-ultimate-developer-and-power-users-tool-list-for-windows)
 - [Michael Staperberg's uses this: my 2020 desk setup](https://michael.stapelberg.ch/posts/2020-05-23-desk-setup/)
 - [Håkon Wium Lie on usesthis.com](https://usesthis.com/interviews/hakon.wium.lie/)
@@ -12,7 +12,7 @@ I really enjoy to read posts about the tools/setup/workplace from other people l
 - [Google Pixel 4a](https://store.google.com/product/pixel_4a) as my smartphone.
 - [Lenovo ThinkCentre M93p Tiny Intel i3-4130T, 4GB RAM, 320 GB HDD](https://support.lenovo.com/de/de/solutions/pd027573-detailed-specifications-for-thinkcentre-m93-m93p-tiny-form-factor) as home server. It use 11 Watt per hour which is low enough with around 0.30 Euro Cent per kWh costs in Germany. 
 - [Mac Mini Late 2009](https://everymac.com/systems/apple/mac_mini/specs/mac-mini-core-2-duo-2.53-late-2009-specs.html) as my desktop machine with 4GB RAM. It has two external hard drives for data and Time Machine backups. The last available Mac OS X version is 10.11.6 (El Capitan) and I'm okay with it. Recently I had to switch my mail client because Apple Mail can't handle TLS 1.2 in this version
-- [Dell P2415Q 4K Monitor](https://www.dell.com/de-de/work/shop/cty/pdp/spd/dell-p2415q-monitor) connected via HDMI with 1080p and it's okay. I use this monitor also when working from home in 4k resolution.
+- [Dell P2415Q 4K Monitor](https://www.dell.com/de-de/work/shop/cty/pdp/spd/dell-p2415q-monitor) connected via HDMI with 1080p and it's okay. I use this monitor also when working from home in 4k resolution and a USB-C Displayport connector.
 - As input devices I use a [Apple Magic Mouse](https://en.wikipedia.org/wiki/Magic_Mouse) or a [Evoluent Vertical Mouse 4](https://evoluent.com/products/vm4r/) and [Happy Hacking Keyboard Lite 2](https://deskthority.net/wiki/HHKB_Lite) or a [BTC 5100C](http://deskthority.net/wiki/BTC_5100). The HHKB Lite is about 10 years old and was before in use at work and it doesn't fill any good to type on it anymore. Now mostly I use the BTC 5100C and I really like it.
 - [iPad Air Wi-Fi](https://everymac.com/systems/apple/ipad/specs/apple-ipad-air-1st-gen-a1474-wi-fi-only-specs.html) still in iOS 12 but I only used it for reading and connecting to my home server via SSH with a [Logitech K380](https://support.logi.com/hc/en-us/articles/360051435873-Getting-Started-K380-Multi-Device-Bluetooth-Keyboard-for-Mac) keyboard.
 - Internet connection is a VDSL 50/10 Mbit/s. I connect to it with a [Daytrek Vigor 130](https://www.draytek.de/vigor130.html) in pass through mode to a [Ubiquiti EdgeRouter Lite](https://www.ui.com/edgemax/edgerouter-lite/). In a few month the new fiber optical connection will be available at my home and I can remove the VDSL modem. I hope I can also replace the ONT from the provider with the right GPON SFP directly in my router.
